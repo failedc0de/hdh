@@ -1,0 +1,11 @@
+{
+  "name": "spam bot",
+  "description": "Bot spam chat.",
+  "repository": "https://github.com/failedc0de/hdh",
+  "env": {
+    "STRING": {
+      "description": "string pyro v2",
+      "value": ""
+    }
+  }
+}
